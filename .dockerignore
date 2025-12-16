@@ -1,0 +1,11 @@
+.git
+.gitignore
+.idea
+*.iml
+build/
+!gradle-wrapper.jar
+.gradle
+*.log
+logs/
+logs*.log
+
